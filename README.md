@@ -3,6 +3,10 @@
 These scripts are intended for 32x31 isometric pixelart cubes, they aid in
 the creation of tiled textures, by repeating the texture on a chosen plane.
 
+### Limitations
+* The script is hardcoded for 32x31 cube textures.
+* The script currently only works for the indexed color mode.
+
 ## Installation
 
 Put these `.lua` files in your scripts folder accessible via
